@@ -1,5 +1,5 @@
 {
-  "name": "@koala-another/source",
+  "name": "source",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {},
@@ -12,6 +12,7 @@
   "devDependencies": {
     "@babel/core": "^7.14.5",
     "@babel/preset-react": "^7.14.5",
+    "@nx/cypress": "18.0.4",
     "@nx/eslint": "18.0.4",
     "@nx/eslint-plugin": "18.0.4",
     "@nx/jest": "18.0.4",
@@ -34,8 +35,10 @@
     "@typescript-eslint/eslint-plugin": "^6.13.2",
     "@typescript-eslint/parser": "^6.13.2",
     "babel-jest": "^29.4.1",
+    "cypress": "^13.0.0",
     "eslint": "~8.48.0",
     "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-cypress": "^2.13.4",
     "eslint-plugin-import": "2.27.5",
     "eslint-plugin-jsx-a11y": "6.7.1",
     "eslint-plugin-react": "7.32.2",
