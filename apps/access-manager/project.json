@@ -1,0 +1,8 @@
+{
+  "name": "access-manager",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/access-manager/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
